@@ -1,0 +1,33 @@
+CSCDE_result30D_300D.mat :7个基本函数在30D、50D、100D、300D 维度下的优化算法运行结果数据 
+7个基本函数（Ellipsoid,Rosenbrock, Ackley ,Griewank ,Rastrigin , F10 in CEC 2005,  F19 in CEC 2005）
+####
+30D 数据 (第1-140行): 7个函数 × 20次运行 = 140行数据
+Line1-Line20: 保存运行30D的Ellipsoid函数，20次的结果
+Line21-Line40: 保存运行30D的Rosenbrock函数，20次结果
+Line41-Line60: 保存运行30D的Ackley函数，20次结果
+Line61-Line80: 保存运行30D的Griewank函数，20次结果
+Line81-Line100: 保存运行30D的Rastrigin函数，20次结果
+Line101-Line120: 保存运行30D的F10 (CEC 2005)函数，20次结果
+Line121-Line140: 保存运行30D的F19 (CEC 2005)函数，20次结果
+
+####
+50D 数据 (第141-280行):7个函数 × 20次运行 = 140行数据
+Line141-Line160: 保存运行50D的Ellipsoid函数，20次的结果
+Line161-Line180: 保存运行50D的Rosenbrock函数，20次结果
+Line181-Line200: 保存运行50D的Ackley函数，20次结果
+Line201-Line220: 保存运行50D的Griewank函数，20次结果
+...
+
+####
+100D 数据 (第281-420行):7个函数 × 20次运行 = 140行数据
+Line281-Line300: 保存运行100D的Ellipsoid函数，20次的结果
+Line301-Line320: 保存运行100D的Rosenbrock函数，20次结果
+Line321-Line340: 保存运行100D的Ackley函数，20次结果
+Line341-Line360: 保存运行100D的Griewank函数，20次结果
+Line361-Line380: 保存运行100D的Rastrigin函数，20次结果
+...
+
+####
+300D 数据 (第421-560行):7个函数 × 20次运行 = 140行数据
+...
+
