@@ -1,0 +1,1 @@
+Code for the implementation of 《A cross-space collaborative differential evolution with knowledge transferand dual-offspring expansion for high-dimensional expensive problems》. This paper and this code should be referenced whenever they are used to generate results for the user's own research. If you have any questions, please contact zqn15735747719@163.com.
